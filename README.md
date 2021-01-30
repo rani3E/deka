@@ -3,10 +3,6 @@
 
 int main(void)
 {
-
-get_string(What's your name?  ");
-
-printf("hello, %s",  answer  );
+  printf("hello, world".\n);
 }
 
-make hello
